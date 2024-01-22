@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56327012114",
+    "project_id": "yash-project-2ecc0",
+    "storage_bucket": "yash-project-2ecc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56327012114:android:901bcf1d0916a5fcfdfdcb",
+        "android_client_info": {
+          "package_name": "com.example.e_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56327012114-j92r1d3q2ksrdv5kp6ejeujass532r0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_shop",
+            "certificate_hash": "4343d7e299b6d21434837bf537aaec01041858db"
+          }
+        },
+        {
+          "client_id": "56327012114-jt2ontka5i8qqm5ppm7llgnn5i8k3t9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_shop",
+            "certificate_hash": "9edc4b40f69eccc038931bbbf54b752ea36a8147"
+          }
+        },
+        {
+          "client_id": "56327012114-2fprc90ohskd3kvijs7nngdkd6ajou0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK8bhEWVO2VZBNtm8K5lyOIF-K_F5AShk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56327012114-2fprc90ohskd3kvijs7nngdkd6ajou0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
